@@ -27,7 +27,7 @@
     "next": "^12.0.2",
     "next-superjson": "^0.0.2",
     "next-themes": "^0.0.15",
-    "react": "^18.0.0-alpha-fd5e01c2e-20210913",
+    "react": "^18.0.0-alpha-6c3dcc7a4-20211027",
     "react-device-detect": "^2.1.2",
     "react-dom": "^18.0.0-alpha-6c3dcc7a4-20211027",
     "react-fade-in": "^2.0.1",
