@@ -1,0 +1,7 @@
+{
+  "name": "Clic-Compost",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
